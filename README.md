@@ -1,14 +1,27 @@
 # MoneyPort — Cross-Border Payments
 
-Service page for a cross-border B2B payments broker that matches clients with vetted payment agents — settlement in USD, EUR, CNY, AED and crypto, with a process walkthrough, trust signals, an FAQ accordion, and a callback form.
+<p><a href="https://verno-dev-studio.github.io/tilda-moneyport/"><b>&#9654; Live demo</b></a> &nbsp;&middot;&nbsp; <a href="https://github.com/verno-dev-studio/tilda-moneyport">Source</a></p>
 
-🔗 **Live demo:** https://verno-dev-studio.github.io/tilda-moneyport/
+## Overview
 
-## Built with
-- **Tilda** — built visually and exported to static HTML / CSS / JS
+A conversion-focused landing page for a cross-border payments service: how transfers work, fees, supported directions and trust signals. Designed visually in Tilda and exported as a fast, self-contained static site.
 
-## Run locally
-Open `index.html` in any modern browser — no build step required.
+## ✨ Features
+
+- Long-form, conversion-oriented landing structure
+- Responsive across all devices (Tilda adaptive grid)
+- Custom design rather than a stock template
+- Lead-capture / call-to-action blocks
+- Optimised static export — fast to load, easy to host
+
+## 🛠️ Tech stack
+
+- **Tilda** — Visual builder — layout, blocks and design
+- **HTML/CSS/JS** — Static export served as-is
+
+## 🚀 Getting started
+
+This site was designed visually in **Tilda** and exported to static HTML/CSS/JS. No build step — open `index.html` in any modern browser, or serve the folder with a static server.
 
 ---
-<sub>Portfolio project. Some client details changed to protect privacy.</sub>
+<sub>Portfolio demo. Client details changed to protect privacy.</sub>
