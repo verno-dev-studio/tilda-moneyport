@@ -22,6 +22,3 @@ A conversion-focused landing page for a cross-border payments service: how trans
 ## 🚀 Getting started
 
 This site was designed visually in **Tilda** and exported to static HTML/CSS/JS. No build step — open `index.html` in any modern browser, or serve the folder with a static server.
-
----
-<sub>Portfolio demo. Client details changed to protect privacy.</sub>
